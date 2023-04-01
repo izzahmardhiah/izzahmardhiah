@@ -9,7 +9,7 @@
 - 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/nur-izzah-mardhiah/)
 <br>
 
-<p><span><img align="left" src="https://github-readme-stats.vercel.app/api?username=izzahmardhiah&show_icons=true&locale=en" alt="izzahmardhiah" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=izzahmardhiah&" alt="izzahmardhiah" /></span></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=izzahmardhiah&show_icons=true&locale=en" alt="izzahmardhiah" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=izzahmardhiah&" alt="izzahmardhiah" /></p>
 
 <br><br><br><br><br><br><br><br><h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
